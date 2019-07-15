@@ -1,0 +1,121 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+body
+{
+		font-family: sans-serif;
+}
+#nav-bar
+{
+	position: sticky;
+	top: 0;
+	z-index: 10;
+	border: 1px outset black;
+}
+.navbar
+{
+	background-color: lightblue;
+	padding: 0 !important;
+}
+.navbar-brand img
+{
+	height:40px;
+	padding-left: 20px;
+}
+.navbar-nav li
+{
+	padding: 0 10px; 
+}
+.navbar-nav li a
+{
+	 color: black !important;
+	 font-weight: 600;
+	 float: right;
+	 text-align: left;
+}
+.navbar-toggler
+{
+	outline: none !important;
+}
+
+#banner
+{
+	background-color: lightblue;
+	padding-top: 5%;
+	height: 600px;
+	background-image: url(cat.png);
+}
+.Promo
+{
+	
+	text-align: center;
+	font-size: 40px;
+	font-weight: 600;
+	margin-top: 1px;
+	
+}
+.col-md-6
+{
+	display: block;
+	background: white;
+	box-shadow: 7px 7px 18px black;
+	height: 25%;
+	position:middle;
+	margin-top: 50px;
+}
+.imgfluid
+{
+	height:400px;
+	width: 400px
+	padding-top: 20px;
+	box-shadow: 7px 7px 18px black;
+	
+}
+
+#story
+{
+	background-color: #D3D3D3;
+	padding-top: 5%;
+	height: 1000px;
+	background-image: url(script.png);
+}
+
+.img-fluid
+{
+	height:200px;
+	width: 200px
+	padding-top: 20px;
+	box-shadow: 7px 7px 18px black;
+}
+.col-md-7
+{
+	display: block;
+	background: white;
+	box-shadow: 7px 7px 18px black;
+	height: 25%;
+	position:middle;
+	margin-top: 150px;
+}
+
+#feel
+{
+	background-color: #90EE90;
+	padding-top: 5%;
+	height: 500px;
+	background-image: url(thinking.png);
+}
+.col-md-8
+{
+	display: block;
+	background: white;
+	box-shadow: 7px 7px 18px black;
+	height: 25%;
+	position:middle;
+	margin-top: 80px;
+}
+
+
+
+
